@@ -1,1 +1,2 @@
-#blacklist_domains
+0.0.0.0 https://docs.staruml.io/user-guide/readme
+/raw/master/hosts
